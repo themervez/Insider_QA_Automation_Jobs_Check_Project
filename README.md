@@ -27,7 +27,8 @@ QA_Jobs_Check_Project/
 │       └── error_screenshots/
 │           └── YYYY-MM-DD/  # Tarihe göre gruplanan hata ekran görüntüleri
 │
-└── README.md                # Proje açıklaması
+├── README.md                # Proje açıklaması
+└── requirements.txt         # Proje için gerekli paket ve sürümler
 ```
 
 ---
