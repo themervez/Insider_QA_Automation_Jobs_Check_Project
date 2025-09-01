@@ -1,0 +1,47 @@
+# Python cache / bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDE / Editor configs
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs / reports
+*.log
+reports/
+htmlcov/
+coverage/
+.coverage
+.cache/
+*.cover
+*.xml
+*.json
+
+# Test-related
+junit-*.xml
+test-results/
+unittest-*.xml
+*.pytest_cache/
+.pytest_cache/
+.tox/
+
+# Test screenshots
+screenshots/
+failed_test_screenshots/
+
+# Other temporary files
+*.swp
+*.swo
